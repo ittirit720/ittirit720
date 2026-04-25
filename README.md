@@ -7,7 +7,9 @@
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ittirit720?label=Sponsor%20Me%20%E2%9D%A4%EF%B8%8F&logo=github-sponsors&style=for-the-badge&color=EA4AAA)](https://github.com/sponsors/ittirit720)
 &nbsp;
-[![Website](https://img.shields.io/badge/rctlabs.co-Visit%20Now-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rctlabs.co/en)
+[![Website (TH)](https://img.shields.io/badge/rctlabs.co%2Fth-ภาษาไทย-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rctlabs.co/th)
+&nbsp;
+[![Open in Colab](https://img.shields.io/badge/Try%20RCT-Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/rctlabs/rct-platform/blob/main/notebooks/rct_playground.ipynb)
 &nbsp;
 [![Email](https://img.shields.io/badge/ittirit720%40gmail.com-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ittirit720@gmail.com)
 
@@ -46,7 +48,8 @@ I am the solo developer behind the **RCT Ecosystem** — a 10-layer Intent-Centr
 
 | Metric | Value |
 |--------|-------|
-| 🧪 Test Suite | 4,849 passed · 0 failed · 0 errors |
+| 🧪 Enterprise Test Suite | 4,849 passed · 0 failed · 0 errors |
+| 🧪 Public SDK Tests | **1,189 passed · 94% coverage** |
 | 🧠 Algorithms | 41 production algorithms (Tier 1–9) |
 | 🤖 AI Models | 7 HexaCore (3 Western + 3 Eastern + 1 Thai) |
 | ⚡ Hallucination Rate | 0.3% (industry: 12–15%) |
@@ -85,8 +88,10 @@ $$F = D^I \times A$$
 | **I** | Intent precision — acts as an **exponent** |
 | **A** | Architect — Human-in-the-loop gate (0 = all output blocked) |
 
-📖 **Full Architecture:** [rctlabs.co](https://www.rctlabs.co/en)  
+📖 **Full Architecture (Thai):** [rctlabs.co/th](https://www.rctlabs.co/th)  
+📖 **Full Architecture (EN):** [rctlabs.co](https://www.rctlabs.co/en)  
 🔬 **Open SDK:** [rctlabs/rct-platform](https://github.com/rctlabs/rct-platform)  
+🚀 **Try It Now:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rctlabs/rct-platform/blob/main/notebooks/rct_playground.ipynb)  
 🏢 **Organization:** [github.com/rctlabs](https://github.com/rctlabs)
 
 ---
